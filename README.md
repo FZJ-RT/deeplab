@@ -6,3 +6,6 @@ A library for an implementation of DeepLabV3+ model for analyzing microfluidics 
 
 ## Getting started
 Please check INSTLLATION.txt for installing this library.
+
+## Contact us
+For further questions or inquiries, please contact Ryan Santoso - r.santoso@fz-juelich.de
