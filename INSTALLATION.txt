@@ -1,0 +1,10 @@
+Installation steps:
+1. Install anaconda in your machine, see https://docs.anaconda.com/free/anaconda/install/index.html; Recommended to use Miniforge, see https://github.com/conda-forge/miniforge.git 
+2. Once conda environment installed, install conda-devenv: conda install conda-devenv
+3. Clone deeplab
+4. Go to deeplab folder
+5. Enter in your terminal: conda devenv. This process will create a new environment called (deeplab)
+6. Activate deeplab environment: conda activate deeplab
+7. Build deeplab library: python setup.py bdist_wheel
+8. Install build: pip install -e . (don't forget dot!!!)
+9. Enjoy the library
